@@ -1,9 +1,9 @@
 # GZIP gin's middleware
 
-[![Build Status](https://travis-ci.org/gin-contrib/gzip.svg)](https://travis-ci.org/gin-contrib/gzip)
-[![codecov](https://codecov.io/gh/gin-contrib/gzip/branch/master/graph/badge.svg)](https://codecov.io/gh/gin-contrib/gzip)
-[![Go Report Card](https://goreportcard.com/badge/github.com/gin-contrib/gzip)](https://goreportcard.com/report/github.com/gin-contrib/gzip)
-[![GoDoc](https://godoc.org/github.com/gin-contrib/gzip?status.svg)](https://godoc.org/github.com/gin-contrib/gzip)
+[![Build Status](https://travis-ci.org/myvikasit/gzip.svg)](https://travis-ci.org/myvikasit/gzip)
+[![codecov](https://codecov.io/gh/myvikasit/gzip/branch/master/graph/badge.svg)](https://codecov.io/gh/myvikasit/gzip)
+[![Go Report Card](https://goreportcard.com/badge/github.com/myvikasit/gzip)](https://goreportcard.com/report/github.com/myvikasit/gzip)
+[![GoDoc](https://godoc.org/github.com/myvikasit/gzip?status.svg)](https://godoc.org/github.com/myvikasit/gzip)
 [![Join the chat at https://gitter.im/gin-gonic/gin](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/gin-gonic/gin)
 
 Gin middleware to enable `GZIP` support.
@@ -13,13 +13,13 @@ Gin middleware to enable `GZIP` support.
 Download and install it:
 
 ```sh
-go get github.com/gin-contrib/gzip
+go get github.com/myvikasit/gzip
 ```
 
 Import it in your code:
 
 ```go
-import "github.com/gin-contrib/gzip"
+import "github.com/myvikasit/gzip"
 ```
 
 Canonical example:
@@ -32,7 +32,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/gin-contrib/gzip"
+	"github.com/myvikasit/gzip"
 	"github.com/gin-gonic/gin"
 )
 
@@ -58,7 +58,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/gin-contrib/gzip"
+	"github.com/myvikasit/gzip"
 	"github.com/gin-gonic/gin"
 )
 
@@ -84,7 +84,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/gin-contrib/gzip"
+	"github.com/myvikasit/gzip"
 	"github.com/gin-gonic/gin"
 )
 
@@ -111,7 +111,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/gin-contrib/gzip"
+	"github.com/myvikasit/gzip"
 	"github.com/gin-gonic/gin"
 )
 
